@@ -12,15 +12,12 @@ dependencies:
   flutter:
     sdk: flutter
   widgetbook: ^3.14.3
-  widgetbook_annotation: ^3.5.0
   ui:
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
-  build_runner:
-  widgetbook_generator: ^3.13.0
 
 flutter:
   uses-material-design: true
